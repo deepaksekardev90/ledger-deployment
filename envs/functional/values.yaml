@@ -2,7 +2,7 @@ wezvaledgerapp:
   wezvaledgerapp:
     image:
       image: 640351538280.dkr.ecr.ap-south-1.amazonaws.com/wezvatechledger
-      tag: fb50
+      tag: fb56
 ledgerSvc:
   ports:
   - nodePort: 30000
